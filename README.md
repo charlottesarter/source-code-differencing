@@ -17,6 +17,8 @@ We would like to discuss with you to clarify your expectations and to better und
 
 We also would like to ask you if we are supposed to improve the gumtree algorithm, or if we can start from an easier SCD algorithm and try to improve this one so it has better results than gumtree.
 
+For now we plan to look more into gumtree source code to try to understand which part of the code we can possibly improve.
+
 #### Authors
 
 - Assel
