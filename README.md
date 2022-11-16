@@ -19,6 +19,18 @@ We also would like to ask you if we are supposed to improve the gumtree algorith
 
 For now we plan to look more into gumtree source code to try to understand which part of the code we can possibly improve.
 
+### Answers
+
+- We don't have to modify gumtree. We can start from scratch our own algorithm.
+- Parser -> TreeNode
+- **We have to match the nodes by visiting the two trees (new and old)**
+- Focus on how we can match the two nodes
+- Call the method diffGumTree
+- Clone the repository and use the parser and gumtree
+- Try diffGumTreeWithGrouping
+- Focus on Java
+- AST design -> by changing java visitor code
+
 #### Authors
 
 - Assel
