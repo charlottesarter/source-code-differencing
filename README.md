@@ -31,6 +31,26 @@ For now we plan to look more into gumtree source code to try to understand which
 - Focus on Java
 - AST design -> by changing java visitor code
 
+## Second progress report
+
+### What we have done so far?
+
+We have cloned the repository [JCodeLib](https://github.com/seoultech-selab/JCodeLib) into our own to be able to modify the code. We added all the dependencies with maven to run the code. 
+
+We have read and tried to understand the logic of the code in the 'DiffPaser' and 'TreeNode' files, but it is difficult to grasp the nuances of the code without testing it.
+
+We wasted a lot of time trying to get the code to work without success and felt like we were up against a wall because the starting point of the project doesn't work and doesn't help us develop our ideas. 
+
+### Issues
+
+We tried to run the code, especially the methods 'diffGumTree' and 'diffGumTreeWithGrouping' as you adviced us to do, but we have some dependencies issues that we have not been able to make work. 
+
+### Plan
+
+For a long time we were stuck with the code that didn't work, so we decided to focus our research on the theoretical part of the project. We are thinking about more ideas about how to improve the internal node matching.
+
+As the code of the JCodeLib repository is not running, we want to implement our own parser based and inspired on the code of the repository. 
+
 #### Authors
 
 - Assel
