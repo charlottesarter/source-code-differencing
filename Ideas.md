@@ -1,9 +1,7 @@
 # Source code differencing
 
 >  Detecting differences between two versions of source code
-
-Matching criteria: How can we decide, whether two nodes are matched?
-
+  
 ### AST design
 
 > Which information to keep or discard
@@ -16,3 +14,4 @@ Matching criteria: How can we decide, whether two nodes are matched?
 ### Matching Criteria.
 
 > Key ideas to improve performance (both correctness/runtime)
+> Matching criteria: How can we decide, whether two nodes are matched?
